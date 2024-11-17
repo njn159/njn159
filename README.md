@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi 👋
 
+- ✍🏽I'm currently student.
+- 🎵 I like music and movie.
 <!--
 **njn159/njn159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
